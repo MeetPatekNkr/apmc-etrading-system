@@ -111,7 +111,7 @@ http://localhost/apmc/
 
 ```
 Email:    admin@apmc.gov.in
-Password: Admin@123
+Password: password
 Role:     APMC Officer
 ```
 
