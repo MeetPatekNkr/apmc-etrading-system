@@ -144,8 +144,3 @@ Role:     APMC Officer
 
 ---
 
-## 📞 Support
-
-APMC e-Trading System | Government of Gujarat
-Toll Free: 1800-XXX-XXXX
-Email: support@apmc.gov.in
